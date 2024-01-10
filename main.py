@@ -5,4 +5,7 @@ def SayHello():
         print("Hello Gayashan")
 
 if __name__ == '__main__':
-        SayHello()
+       SayHello()
+
+def Subtract(a, b):
+        return a - b
