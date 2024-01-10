@@ -1,5 +1,6 @@
 # Import the Add function, and assert that it works correctly.
 from main import Add
+from main import Subtract
 
 def TestAdd():
         assert Add(2,3) == 5
